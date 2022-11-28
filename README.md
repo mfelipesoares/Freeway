@@ -6,9 +6,13 @@ Freeway é um jogo eletrônico na qual o jogador controla a personagem com o int
 ## 🚀 Comandos:
 
    -Tecla R : Reseta a posição da personagem;
+   
    -Tecla ⬆ : Movimenta para cima;
+   
    -Tecla ⬇ : Movimenta para baixo;
+   
    -Tecla ➡️ : Movimenta para direita;
+   
    -Tecla ⬅️ : Movimenta para esquerda;
 
 ### 📋 Pré-requisitos
